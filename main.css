@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #eee;
+  background-color: #0BAA36;
   font-family: 'Lato', sans-serif;
 }
 
@@ -58,7 +58,7 @@ header {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #eee;
+  background-color: #0BAA36;
 }
 
 @media (max-width: 600px) {
