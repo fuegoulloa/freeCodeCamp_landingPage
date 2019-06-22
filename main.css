@@ -9,6 +9,7 @@
 }
 
 body {
+  color: #7D005C;
   background-color: #0BAA36;
   font-family: 'Lato', sans-serif;
 }
@@ -22,7 +23,8 @@ li {
 }
 
 a {
-  color: #000;
+  color: #7D005C;
+  font-weight: bold;
   text-decoration: none;
 }
 
